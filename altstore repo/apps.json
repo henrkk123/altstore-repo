@@ -1,19 +1,29 @@
 {
   "name": "VALID Official Source",
   "identifier": "com.ecki.valid.source",
+  "news": [
+    {
+      "title": "VALID v1.0.0 Release! 🔥",
+      "identifier": "welcome-to-valid",
+      "caption": "Die KI-Revolution für deinen Style ist da. Check dein Outfit jetzt!",
+      "date": "2026-01-19",
+      "imageURL": "https://raw.githubusercontent.com/henrkk123/altstore-repo/main/altstore%20repo%20/:assets/icon.png",
+      "appID": "com.fitsai.fitsAi"
+    }
+  ],
   "apps": [
     {
       "name": "VALID",
       "bundleIdentifier": "com.fitsai.fitsAi",
       "developerName": "Ecki",
-      "subtitle": "Check your Style. Stay Valid.",
+      "subtitle": "Stay Valid. Check your Style.",
       "version": "1.0.0",
       "versionDate": "2026-01-19",
-      "versionDescription": "Initialer Release von VALID. KI-Erkennung für dein Outfit.",
+      "versionDescription": "Initialer Release. KI-Scanner aktiv.",
       "downloadURL": "https://raw.githubusercontent.com/henrkk123/altstore-repo/main/altstore%20repo/VALID_UNSIGNED.ipa",
-      "localizedDescription": "Mit **VALID** bringst du deinen Style auf das nächste Level. \n\n**Warum VALID?**\n* Erkennt Kleidung in Echtzeit mittels KI.\n* Nutzt JIT für maximale Performance auf dem iPhone 13.\n* Optimiertes UI für schnelles Scannen von Outfits.",
+      "localizedDescription": "### STAY VALID. \n\nDie erste KI-App, die deinen Style wirklich versteht. \n\n**Top Features:** \n* 🚀 **Real-time Recognition**: Erkennt Kleidung sofort. \n* 💎 **JIT-Turbo**: Maximale Performance auf deinem iPhone 13. \n* 🔒 **Privacy**: Deine Scans bleiben lokal.",
       "iconURL": "https://raw.githubusercontent.com/henrkk123/altstore-repo/main/altstore%20repo%20/:assets/icon.png",
-      "tintColor": "#2C2C2E",
+      "tintColor": "#FFFFFF",
       "size": 15833497,
       "screenshots": [
         "https://raw.githubusercontent.com/henrkk123/altstore-repo/main/altstore%20repo%20/:assets/screen1.png",
