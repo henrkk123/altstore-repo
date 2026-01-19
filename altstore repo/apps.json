@@ -10,15 +10,15 @@
       "version": "1.0.0",
       "versionDate": "2026-01-19",
       "versionDescription": "Initialer Release von VALID. KI-Erkennung für dein Outfit.",
-      "downloadURL": "https://raw.githubusercontent.com/henrkk123/altstore-repo/main/VALID_UNSIGNED.ipa",
+      "downloadURL": "https://raw.githubusercontent.com/henrkk123/altstore-repo/main/altstore%20repo/VALID_UNSIGNED.ipa",
       "localizedDescription": "Mit **VALID** bringst du deinen Style auf das nächste Level. \n\n**Warum VALID?**\n* Erkennt Kleidung in Echtzeit mittels KI.\n* Nutzt JIT für maximale Performance auf dem iPhone 13.\n* Optimiertes UI für schnelles Scannen von Outfits.",
-      "iconURL": "https://raw.githubusercontent.com/henrkk123/altstore-repo/main/assets/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/henrkk123/altstore-repo/main/altstore%20repo%20/:assets/icon.png",
       "tintColor": "#2C2C2E",
       "size": 15833497,
       "screenshots": [
-        "https://raw.githubusercontent.com/henrkk123/altstore-repo/main/assets/screen1.png",
-        "https://raw.githubusercontent.com/henrkk123/altstore-repo/main/assets/screen2.png",
-        "https://raw.githubusercontent.com/henrkk123/altstore-repo/main/assets/screen3.png"
+        "https://raw.githubusercontent.com/henrkk123/altstore-repo/main/altstore%20repo%20/:assets/screen1.png",
+        "https://raw.githubusercontent.com/henrkk123/altstore-repo/main/altstore%20repo%20/:assets/screen2.png",
+        "https://raw.githubusercontent.com/henrkk123/altstore-repo/main/altstore%20repo%20/:assets/screen3.png"
       ]
     }
   ]
