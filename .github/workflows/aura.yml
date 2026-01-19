@@ -1,0 +1,29 @@
+name: Deep Green Aura Boost
+on:
+  schedule:
+    - cron: '30 19 * * *' # Läuft jeden Abend
+  workflow_dispatch: # Damit du es jetzt sofort testen kannst
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+      
+      - name: Deep Green Loop
+        run: |
+          git config --global user.name 'henrkk123'
+          git config --global user.email 'henrkk123@users.noreply.github.com'
+          
+          # Diese Schleife macht 10 Commits hintereinander für maximale Aura
+          for i in {1..10}
+          do
+            echo "Aura Level $i: $(date)" > daily_log.txt
+            git add daily_log.txt
+            git commit -m "feat: infinite aura glitch $i/10"
+          done
+          
+          git push
